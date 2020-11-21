@@ -13,7 +13,7 @@
         "mobile": "+491704504005",
         "email" : "info@bergerdata.de"
     },
-    "USt-IdNr" : "DE223503841",
+    "USt_IdNr" : "DE223503841",
     "tags": [
         "development",
         "consulting",
@@ -23,13 +23,20 @@
         "devops"
       ],
     "certs": [
-        "AWS certified solutions architect\\n
+        "AWS certified solutions architect\ 
          associate"
     ],
     "languages" : [
         "german",
         "english",
         "netherlands"
-    ]
+    ], 
+    "current_organisations": [
+        {
+            "name": "mika:timing GmbH",
+            "url" : "https://www.mikatiming.de",
+            "as"  : "software architect, product owner"
+        }      
+    ] 
 }
 ```
