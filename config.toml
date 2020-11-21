@@ -1,0 +1,91 @@
+baseurl      = "localhost"
+title        = "My Blog"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+enableGitInfo   = true
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  #homeSubtitle = "keep it simple."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+
+[author]
+  name = "Otto Berger"
+
+[description]
+  name = "Otto Berger"
+
+[params.portrait]
+    path     = "/img/image.jpeg"
+    alt      = "Portrait"
+    maxWidth = "100px"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Otto Berger"
+    keywords = "bergerdata,Otto Berger,development,consulting,architecure,devops,cloud,aws"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "/var/www/bergerdata.com"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "https://www.bergercity.de"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/bergerdata"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:otto@bergerdata.de"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/otto-berger/"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/otto__berger/"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/otto802"
