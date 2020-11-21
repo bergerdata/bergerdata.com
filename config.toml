@@ -36,7 +36,7 @@ enableGitInfo   = true
   name = "Otto Berger"
 
 [params.portrait]
-    path     = "/img/image.jpeg"
+    path     = "img/image.jpeg"
     alt      = "Portrait"
     maxWidth = "100px"
 
