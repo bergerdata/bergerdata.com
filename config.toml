@@ -54,7 +54,7 @@ enableGitInfo   = true
 
     [languages.en.params.logo]
       logoText = "/var/www/bergerdata.com"
-      logoHomeLink = "/"
+      logoHomeLink = "/bergerdata.com/"
     # or
     #
     # path = "/img/your-example-logo.svg"
