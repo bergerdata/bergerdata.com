@@ -1,4 +1,4 @@
-baseurl      = "https://bergerdata.github.io/bergerdata.com/"
+baseurl      = "https://www.bergerdata.com/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -54,7 +54,7 @@ enableGitInfo   = true
 
     [languages.en.params.logo]
       logoText = "/var/www/bergerdata.com"
-      logoHomeLink = "/bergerdata.com/"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
