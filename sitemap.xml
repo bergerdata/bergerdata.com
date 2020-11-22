@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bergerdata.github.io/bergerdata.com/about/</loc>
+    <loc>https://www.bergerdata.com/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bergerdata.github.io/bergerdata.com/blog/</loc>
+    <loc>https://www.bergerdata.com/blog/</loc>
   </url>
   
   <url>
-    <loc>https://bergerdata.github.io/bergerdata.com/</loc>
+    <loc>https://www.bergerdata.com/</loc>
   </url>
   
   <url>
-    <loc>https://bergerdata.github.io/bergerdata.com/series/</loc>
+    <loc>https://www.bergerdata.com/series/</loc>
   </url>
   
   <url>
-    <loc>https://bergerdata.github.io/bergerdata.com/tags/</loc>
+    <loc>https://www.bergerdata.com/tags/</loc>
   </url>
   
 </urlset>
