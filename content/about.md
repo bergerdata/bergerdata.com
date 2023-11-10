@@ -14,11 +14,17 @@ USt-IdNr: DE223503841
 ## Metadata
 
 ```
-development     aws           php         symfony     gitlab
-architecture    linux         nodejs      vue.js      notion.so
-products        networking    mysql       hugo        atlassian
-devops          ansible       docker                  apple
-design          k8s           redis
+development    aws           symfony    
+architecture   linux         vue.js     
+products       networking    hugo       
+devops         ansible       
+design         k8s           
+
+php            gitlab        
+nodejs         notion.so        
+mysql          atlassian        
+docker         apple        
+redis
 ```
 
 ### Organisation
