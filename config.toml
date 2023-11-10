@@ -24,3 +24,8 @@ disableKinds = ["taxonomy", "term"]
 [markup.goldmark]
 [markup.goldmark.renderer]
   unsafe = true
+
+
+[services]
+  [services.googleAnalytics]
+    googleAnalytics = 'G-69T2FM56ZS'
