@@ -77,9 +77,10 @@ disableRSS     = true
     name       = "Blog"
     url        = "https://www.bergercity.de"
 
+
   [[params.social]]
     name = "github"
-    url  = "https://github.com/bergerdata"
+    url  = "https://github.com/otto802"
 
   [[params.social]]
     name = "email"
@@ -92,7 +93,3 @@ disableRSS     = true
   [[params.social]]
     name = "instagram"
     url  = "https://www.instagram.com/otto__berger/"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/otto802"
