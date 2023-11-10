@@ -30,9 +30,13 @@ redis
 ### Organisation
 
 [mika:timing GmbH](https://www.mikatiming.de)
-sports industry, timing
+sports industry, timing  
 as software architect, product owner
 
 ### Certs
 
 AWS certified solutions architect associate
+
+### Legal
+
+[Datenschutzerklärung](https://www.bergercity.de/datenschutzerklaerung/)  
