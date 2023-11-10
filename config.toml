@@ -4,6 +4,8 @@ title = "Otto Berger"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+googleAnalytics = 'G-69T2FM56ZS'
+
 [author]
   name = "Otto Berger"
   headline = "development, products"
@@ -26,6 +28,3 @@ disableKinds = ["taxonomy", "term"]
   unsafe = true
 
 
-[services]
-  [services.googleAnalytics]
-    googleAnalytics = 'G-69T2FM56ZS'
