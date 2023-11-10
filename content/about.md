@@ -11,9 +11,6 @@ eMail:  [otto@bergerdata.de](mailto:otto@bergerdata.de)
 USt-IdNr: DE223503841
 </div>
 
-<div style="float: right;" data-iframe-width="150" data-iframe-height="270" data-share-badge-id="918d32d2-160e-4a8a-8d3f-7a8c0b9314d2" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
-
 ## Metadata
 
 ```JSON
