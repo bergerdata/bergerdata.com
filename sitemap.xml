@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.bergerdata.com/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2023-11-10T21:50:58+01:00</lastmod>
+  </url><url>
     <loc>https://www.bergerdata.com/blog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bergerdata.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bergerdata.com/series/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bergerdata.com/tags/</loc>
   </url>
-  
 </urlset>
