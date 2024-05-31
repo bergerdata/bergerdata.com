@@ -1,3 +1,6 @@
+
+languageCode = "en"
+defaultContentLanguage = "en"
 theme = "lynx"
 title = "Otto Berger"
 
@@ -6,7 +9,7 @@ disableKinds = ["taxonomy", "term"]
 
 googleAnalytics = 'G-69T2FM56ZS'
 
-[author]
+[params.author]
   name = "Otto Berger"
   headline = "development, products"
   image = "img/image.jpeg"
