@@ -1,4 +1,4 @@
-## Business
+## About me
 
 Otto Berger  
 Schlodderdicher Weg 9  
@@ -11,20 +11,20 @@ eMail:  [otto@bergerdata.de](mailto:otto@bergerdata.de)
 USt-IdNr: DE223503841
 
 
-## Metadata
+### Metadata
 
 ```
-development    aws           symfony    
-architecture   linux         vue.js     
-products       networking    hugo       
+architecture   aws           symfony    
+development    k8s           vue.js     
+automation     linux         hugo       
+products       docker        sam
 devops         ansible       
-design         k8s           
+design         networking          
 
-php            gitlab        
-nodejs         notion.so        
-mysql          atlassian        
-docker         apple        
-redis
+php            mysql         gitlab        
+nodejs         redis         notion.so        
+bash                         atlassian        
+                             apple        
 ```
 
 ### Organisation
@@ -37,6 +37,6 @@ as software architect, product owner
 
 AWS certified solutions architect associate
 
-### Legal
+## Legal
 
 [Datenschutzerklärung](https://www.bergercity.de/datenschutzerklaerung/)  
