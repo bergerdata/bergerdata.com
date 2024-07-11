@@ -4,7 +4,7 @@
     <title>Otto Berger</title>
     <link>/</link>
     <description>Recent content on Otto Berger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,17 +12,7 @@
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/about/</guid>
-      <description>Business Otto Berger
-Schlodderdicher Weg 9
-51469 Bergisch Gladbach
-Germany
-Mobile: +491704504005
-eMail: otto@bergerdata.de
-USt-IdNr: DE223503841
-Metadata development aws symfony architecture linux vue.js products networking hugo devops ansible design k8s php gitlab nodejs notion.so mysql atlassian docker apple redis Organisation mika:timing GmbH sports industry, timing
-as software architect, product owner
-Certs AWS certified solutions architect associate
-Legal Datenschutzerklärung</description>
+      <description>About me Otto Berger&#xA;Schlodderdicher Weg 9&#xA;51469 Bergisch Gladbach&#xA;Germany&#xA;Mobile: +491704504005&#xA;eMail: otto@bergerdata.de&#xA;USt-IdNr: DE223503841&#xA;Metadata architecture aws symfony development k8s vue.js automation linux hugo products docker sam devops ansible design networking php mysql gitlab nodejs redis notion.so bash atlassian apple Organisation mika:timing GmbH sports industry, timing&#xA;as software architect, product owner&#xA;Certs AWS certified solutions architect associate&#xA;Legal Datenschutzerklärung</description>
     </item>
   </channel>
 </rss>
