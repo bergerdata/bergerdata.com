@@ -16,14 +16,15 @@ USt-IdNr: DE223503841
 ```
 architecture   aws           symfony    
 development    k8s           vue.js     
-automation     linux         hugo       
-products       docker        sam
-devops         ansible       
-design         networking          
+automation     linux         jmeter       
+products       docker        hugo
+gitops         ansible       sam
+design         networking       
 
 php            mysql         gitlab        
 nodejs         redis         notion.so        
-bash                         atlassian        
+bash                         atlassian
+                             sketch        
                              apple        
 ```
 
